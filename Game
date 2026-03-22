@@ -1,0 +1,11 @@
+# Clone your new repository
+git clone https://github.com/unruhriley-rgb/car-prototype.git
+cd car-prototype
+
+# Create the index.html file with your prototype code
+# (paste your HTML into a file called index.html)
+
+# Stage, commit, and push
+git add index.html
+git commit -m "Initial commit: car prototype"
+git push -u origin main
